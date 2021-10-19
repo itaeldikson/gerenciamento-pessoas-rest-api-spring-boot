@@ -1,2 +1,2 @@
-# gerenciamento-pessoas-rest-api-spring-boot
+# gerenciamento-pessoas-rest
 um projeto solicitado pela digital innovation one
